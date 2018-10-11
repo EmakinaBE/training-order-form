@@ -1,6 +1,6 @@
 Src: [rstacruz/frontend-exercises](https://github.com/rstacruz/frontend-exercises/tree/master/order-form)
 
-![Front-end exercice: Loading...](https://git.emakina.net/projects/IN/repos/training/raw/03%20-%20Order%20form/validation.gif)
+![Front-end exercice: Loading...](https://github.com/EmakinaBE/training-order-form/raw/master/validation.gif)
 
 **[Download template ▸](index.html)**
 
@@ -18,7 +18,7 @@ card numbers. We can do something about this.
 
 Implement validation for the credit card number to catch our users mistakes, and 
 provide them helpful feedback.
-See [this gif]() to see how it should work.
+See [this gif](validation.gif) to see how it should work.
 
 
  * It should tell me the credit card type (Mastercard / Visa / American Express) 
